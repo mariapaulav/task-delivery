@@ -17,7 +17,7 @@ function App() {
         task ={task}
         onClose={onClose}
           />
-        <button className='clearBtn' onClick={()=> setTask([])}>Delivered All</button>
+        <button className='clearBtn' onClick={()=> setTask([])}>Delivery All</button>
       </div>
     </main>
   )
